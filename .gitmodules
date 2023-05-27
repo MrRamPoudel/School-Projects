@@ -1,3 +1,6 @@
 [submodule "HashingWithChaining"]
 	path = HashingWithChaining
 	url = git@github.com:MrRamPoudel/HashingWithChaining.git
+[submodule "LZW"]
+	path = LZW
+	url = git@github.com:MrRamPoudel/LZW.git
